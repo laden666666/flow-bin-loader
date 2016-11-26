@@ -7,7 +7,7 @@ type checking with [Flow](https://flowtype.org/).
 ## Install
 
 ```{.sh}
-$ npm install --save-dev flow-bin-loader
+$ npm install --save-dev flow-bin flow-bin-loader
 ```
 ## Usage
 
