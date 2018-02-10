@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "webpack loader for Flow",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/brunocodutra/flow-bin-loader.git"
@@ -19,7 +22,11 @@
   ],
   "author": "Bruno Dutra <brunocodutra@gmail.com> (http://brunocodutra.github.io/)",
   "license": "MIT",
-  "dependencies": {
-    "child-process": "^1.0.2"
+  "bugs": {
+    "url": "https://github.com/brunocodutra/flow-bin-loader/issues"
+  },
+  "homepage": "https://github.com/brunocodutra/flow-bin-loader",
+  "peerDependencies": {
+    "flow-bin": "*"
   }
 }
